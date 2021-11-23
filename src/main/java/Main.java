@@ -11,3 +11,4 @@ public class Main {
         factory.buildCar(car2);
     }
 }
+
